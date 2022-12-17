@@ -4,6 +4,8 @@ From ER to decent grades.
 
 ## Structure
 
+A bit messed up, but we try to keep it as -
+
     .
     ├── 1st                         # 1st semeseter
     |   ├── Subject1                # a particular subject
